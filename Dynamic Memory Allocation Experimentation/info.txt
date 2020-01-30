@@ -1,0 +1,2 @@
+The idea for the Dynamic Memory Allocation Experimentation file is to put about 100GB through a server with 4 GB of RAM using dyanimc memory allocation.
+The C language was used for this program.
