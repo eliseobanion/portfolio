@@ -1,0 +1,7 @@
+Counter Sort is different than Counting Sort. It is best used for smaller ranges and is impossible for infinite ranges. It's ideal to use Counter Sort when N > R. The Notation is Theta(2N + R). R is the range of numbers. Counter Sort is an example of external sorting.
+
+In order to do Counter Sort, one first creates a counter array that counts the occurances of integers. Then, the counter array overrides the original array and essentially creates the sorted order. (The sorting is done when the counter array counts the occurances of the integers).
+
+This specific sort was thought of by Dr. Jim Cain, professor at Southwest Baptist University.
+
+The sort in this repository is done in the C language.
