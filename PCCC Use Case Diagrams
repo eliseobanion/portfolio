@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T04:12:41.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="mD3QaCQkL5Dl8JFcoXFx" version="13.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-10T14:14:56.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="VPkQGrwgjgA_AOVzGPNJ" version="13.9.2" type="github" pages="6">
   <diagram id="QFRXf67fxTuSWPLXPF68" name="(General) Website Visitor">
-    <mxGraphModel dx="716" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,17 +34,11 @@
         <mxCell id="dwrI_WEAXs_iVbBDA7cJ-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="665" y="435" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dwrI_WEAXs_iVbBDA7cJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="dwrI_WEAXs_iVbBDA7cJ-37" target="dwrI_WEAXs_iVbBDA7cJ-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dwrI_WEAXs_iVbBDA7cJ-37" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p&gt;Access links that direct where to sign up to vote&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="35" width="140" height="70" as="geometry" />
+          <mxGeometry x="727.5" y="30" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dwrI_WEAXs_iVbBDA7cJ-38" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p&gt;View a step-by-step page on how to sign up and needed info&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="727.5" y="35" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dwrI_WEAXs_iVbBDA7cJ-40" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="665" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="510" y="30" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dwrI_WEAXs_iVbBDA7cJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="dwrI_WEAXs_iVbBDA7cJ-42" target="dwrI_WEAXs_iVbBDA7cJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +52,7 @@
         <mxCell id="dwrI_WEAXs_iVbBDA7cJ-47" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="665" y="305" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VwtCi2ex-Z4-LeSplLCa-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dwrI_WEAXs_iVbBDA7cJ-1" target="dwrI_WEAXs_iVbBDA7cJ-37" edge="1">
+        <mxCell id="VwtCi2ex-Z4-LeSplLCa-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dwrI_WEAXs_iVbBDA7cJ-1" target="dwrI_WEAXs_iVbBDA7cJ-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="280" as="sourcePoint" />
             <mxPoint x="420" y="230" as="targetPoint" />
@@ -81,6 +75,9 @@
             <mxPoint x="370" y="280" as="sourcePoint" />
             <mxPoint x="420" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3nQuVTwlSDpG9DMa-zJj-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="55" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -344,6 +341,9 @@
             <mxPoint x="530" y="330" as="sourcePoint" />
             <mxPoint x="580" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I81RjRAQ4SNieVnGAQJw-0" value="Fix&lt;br style=&quot;font-size: 25px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="CpRfIvwUDzu7tYv0rDTQ-1">
+          <mxGeometry x="630" y="130" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
